@@ -1,0 +1,69 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe D:\Software\Tools\yarn\bin\yarn.js install
+
+PATH: 
+  C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Android;C:\Windows\System32;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\MTWD\AppData\Roaming\npm;C:\Users\MTWD\AppData\Local\Microsoft\WindowsApps;C:\Users\MTWD\adb;C:\adb;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;D:\Software\Tools\yarn\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\dotnet\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\MTWD\AppData\Local\Microsoft\WindowsApps;C:\Users\MTWD\adb;C:\Users\MTWD\AppData\Local\Yarn\.bin;C:\Users\MTWD\AppData\Local\Microsoft\WindowsApps;C:\temp\cmd;C:\Users\MTWD\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin
+
+Yarn version: 
+  0.23.2
+
+Node version: 
+  7.8.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  {
+    "name": "mt-webdev",
+    "version": "0.0.0",
+    "license": "MIT",
+    "scripts": {
+      "ng": "ng",
+      "start": "ng serve",
+      "build": "ng build",
+      "test": "echo \"Error: no test... minimal project\" && exit 1",
+      "lint": "echo \"Error: no lint... minimal project\" && exit 1",
+      "e2e": "echo \"Error: no e2e... minimal project\" && exit 1"
+    },
+    "private": true,
+    "dependencies": {
+      "@angular/animations": "^4.0.0",
+      "@angular/common": "^4.0.0",
+      "@angular/compiler": "^4.0.0",
+      "@angular/core": "^4.0.0",
+      "@angular/forms": "^4.0.0",
+      "@angular/http": "^4.0.0",
+      "@angular/platform-browser": "^4.0.0",
+      "@angular/platform-browser-dynamic": "^4.0.0",
+      "@angular/router": "^4.0.0",
+      "core-js": "^2.4.1",
+      "rxjs": "^5.1.0",
+      "zone.js": "^0.8.4"
+    },
+    "devDependencies": {
+      "@angular/cli": "1.2.1",
+      "@angular/compiler-cli": "^4.0.0",
+      "@angular/language-service": "^4.0.0",
+      "typescript": "~2.3.3"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: write EPIPE
+      at exports._errnoException (util.js:1034:11)
+      at Socket._writeGeneric (net.js:723:26)
+      at Socket._write (net.js:742:8)
+      at doWrite (_stream_writable.js:329:12)
+      at writeOrBuffer (_stream_writable.js:315:5)
+      at Socket.Writable.write (_stream_writable.js:241:11)
+      at Socket.write (net.js:669:40)
+      at ConsoleReporter._log (D:\Software\Tools\yarn\lib\reporters\console\console-reporter.js:174:17)
+      at ConsoleReporter.log (D:\Software\Tools\yarn\lib\reporters\console\console-reporter.js:166:10)
+      at ConsoleReporter.step (D:\Software\Tools\yarn\lib\reporters\console\console-reporter.js:119:10)
