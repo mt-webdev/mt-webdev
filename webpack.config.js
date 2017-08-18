@@ -343,7 +343,7 @@ module.exports = {
         "assets",
         "favicon.ico",
         "web.config",
-        "manifest.json",
+        "json.manifest",
         "sw.js"
       ],
       "globOptions": {
