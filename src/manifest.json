@@ -6,6 +6,12 @@
     "short_name": "short name",
     "theme_color": "#009FFD",
     "background_color": "#f0f0f0",
+    "display": "standalone",
+    "lang": "en",
+    "orientation": "portrait-primary",
+    "related_applications": [{
+        "platform": "web"
+    }],
     "icons": [
         {
             "src": "assets/icon_svg.svg",
