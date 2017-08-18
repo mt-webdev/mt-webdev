@@ -1,9 +1,0 @@
-{
-    name: "mtwd-pwa",
-    version: "0.0.1",
-    manifest_version: "0.0.1",
-    description: "some awesomeness",
-    short_name: "short name",
-    theme_color: "#f00",
-    background_color: "#00f"
-}

@@ -1,13 +1,23 @@
 <!doctype html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <title>MtWebdev</title>
+  <link rel="shortcut icon" href="/assets/favicon.ico">
+  <link rel="manifest" href="/manifest.json">
   <base href="/">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>
+    if (navigator.serviceWorker) {
+      navigator.serviceWorker.register('./sw.js');
+    }
+  </script>
 </head>
+
 <body>
   <mtwd-root></mtwd-root>
 </body>
+
 </html>
