@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="Layer_1" style="enable-background:new 0 0 128 128;" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="pattern-0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+    <linearGradient id="gradient-15" gradientUnits="userSpaceOnUse" x1="21.3" y1="64" x2="21.3" y2="89.467">
+      <stop offset="0" style="stop-color: rgba(255, 0, 72, 1)"/>
+      <stop offset="1" style="stop-color: rgba(153, 0, 43, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-16" gradientUnits="userSpaceOnUse" x1="21.3" y1="38.533" x2="21.3" y2="64">
+      <stop offset="0" style="stop-color: rgba(255, 0, 72, 1)"/>
+      <stop offset="1" style="stop-color: rgba(153, 0, 43, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-17" gradientUnits="userSpaceOnUse" x1="106.701" y1="38.533" x2="106.701" y2="64">
+      <stop offset="0" style="stop-color: rgba(255, 0, 72, 1)"/>
+      <stop offset="1" style="stop-color: rgba(153, 0, 43, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-18" gradientUnits="userSpaceOnUse" x1="106.701" y1="64" x2="106.701" y2="89.467">
+      <stop offset="0" style="stop-color: rgba(255, 0, 72, 1)"/>
+      <stop offset="1" style="stop-color: rgba(153, 0, 43, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-19" gradientUnits="userSpaceOnUse" x1="64.78" y1="22.379" x2="64.78" y2="105.621" gradientTransform="matrix(1, 0, 0, 1, 0, 0)">
+      <stop offset="0" style="stop-color: rgba(255, 0, 72, 1)"/>
+      <stop offset="1" style="stop-color: rgba(153, 0, 43, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="74.872" y1="10.274" x2="74.872" y2="137.068" gradientTransform="matrix(0.025937, -0.246086, 0.215418, 0.022706, 9.540217, 34.874569)">
+      <stop offset="0" style="stop-color: rgba(255, 255, 255, 1)"/>
+      <stop offset="1" style="stop-color: rgba(204, 204, 204, 1)"/>
+    </linearGradient>
+  </defs>
+  <ellipse style="paint-order: stroke; fill: url(#gradient-0);" transform="matrix(0.63902, 0.76919, -0.76919, 0.63902, 18.182764, -9.899962)" cx="18.527" cy="18.23" rx="15.688" ry="15.688"/>
+  <g style="mix-blend-mode: multiply;" transform="matrix(0.247448, 0, 0, 0.247448, 0.197963, 0.12827)">
+    <g transform="matrix(1, 0, 0, 1, 0.000001, -0.000006)" style="mix-blend-mode: screen;">
+      <g>
+        <line style="stroke-width: 8; stroke-miterlimit: 10; stroke-linecap: round; stroke-dashoffset: 3; fill: rgb(186, 218, 85); stroke: url(#gradient-15);" x1="34.033" x2="8.566" y1="89.467" y2="64"/>
+        <line style="stroke-width: 8; stroke-miterlimit: 10; stroke-linecap: round; stroke-dashoffset: 3; fill: rgb(186, 218, 85); stroke: url(#gradient-16);" x1="8.566" x2="34.033" y1="64" y2="38.533"/>
+      </g>
+      <g>
+        <line style="stroke-width: 8; stroke-miterlimit: 10; stroke-linecap: round; stroke-dashoffset: 3; fill: rgb(186, 218, 85); stroke: url(#gradient-17);" x1="93.967" x2="119.434" y1="38.533" y2="64"/>
+        <line style="stroke-width: 8; stroke-miterlimit: 10; stroke-linecap: round; stroke-dashoffset: 3; fill: rgb(186, 218, 85); stroke: url(#gradient-18);" x1="119.434" x2="93.967" y1="64" y2="89.467"/>
+      </g>
+    </g>
+    <line style="stroke-width: 8; stroke-miterlimit: 10; stroke-linecap: round; stroke-dashoffset: 3; fill: rgb(186, 218, 85); stroke: url(#gradient-19); mix-blend-mode: screen;" x1="42" x2="87.561" y1="105.621" y2="22.379"/>
+  </g>
+</svg>
