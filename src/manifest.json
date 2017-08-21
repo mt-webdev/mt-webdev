@@ -2,6 +2,7 @@
     "name": "mtwd-pwa",
     "version": "0.0.1",
     "manifest_version": "0.0.1",
+    "start_url": "/",
     "description": "some awesomeness",
     "short_name": "short name",
     "theme_color": "#009FFD",
