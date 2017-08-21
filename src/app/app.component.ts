@@ -2,12 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'mtwd-root',
-  template: `
-    <h1>
-      Welcome to {{title}}!!
-    </h1>
-    <router-outlet></router-outlet>
-  `,
+  templateUrl: './app.component.html',
   styles: []
 })
 export class AppComponent {

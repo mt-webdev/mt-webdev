@@ -1,27 +1,46 @@
 {
-    "name": "mtwd-pwa",
+    "name": "<MTWD />",
     "version": "0.0.1",
     "manifest_version": "0.0.1",
     "start_url": "/",
-    "description": "some awesomeness",
-    "short_name": "short name",
-    "theme_color": "#009FFD",
+    "description": "Little info homepage with social links and cv",
+    "short_name": "MTWD",
+    "theme_color": "#ee0044",
     "background_color": "#f0f0f0",
     "display": "standalone",
     "lang": "en",
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "assets/icon_svg.svg",
-            "sizes": "48x48 72x72 128x128 144x144 256x256 512x512"
-        }, {
-            "src": "assets/icon_128.png",
-            "sizes": "128x128 144x144"
-        }, {
-            "src": "assets/icon_256.png",
+            "src": "assets/mtwd_svg_32.svg",
+            "sizes": "32x32"
+        },
+        {
+            "src": "assets/mtwd_svg_144.svg", 
+            "sizes": "144x144"
+        },
+        {
+            "src": "assets/mtwd_svg_256.svg",
             "sizes": "256x256"
-        }, {
-            "src": "assets/icon_512.png",
+        },
+        {
+            "src": "assets/mtwd_svg_512.svg",
+            "sizes": "512x512"
+        },
+        {
+            "src": "assets/mtwd_32.png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "assets/mtwd_144.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "assets/mtwd_256.png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "assets/mtwd_512.png",
             "sizes": "512x512"
         }
     ]

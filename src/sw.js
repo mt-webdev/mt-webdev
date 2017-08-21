@@ -1,7 +1,7 @@
 CACHE_NAME = 'mtwd-cache-0.0.1';
 var urlsToCache = [
     '/offline.html',
-    '/assets/icon_512.png'
+    '/assets/mtwd_svg_512.svg'
 ];
 
 self.addEventListener('install', function (event) {
