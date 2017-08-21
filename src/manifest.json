@@ -10,9 +10,6 @@
     "display": "standalone",
     "lang": "en",
     "orientation": "portrait-primary",
-    "related_applications": [{
-        "platform": "web"
-    }],
     "icons": [
         {
             "src": "assets/icon_svg.svg",
