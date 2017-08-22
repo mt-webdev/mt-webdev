@@ -12,22 +12,6 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "assets/mtwd_svg_32.svg",
-            "sizes": "32x32"
-        },
-        {
-            "src": "assets/mtwd_svg_144.svg", 
-            "sizes": "144x144"
-        },
-        {
-            "src": "assets/mtwd_svg_256.svg",
-            "sizes": "256x256"
-        },
-        {
-            "src": "assets/mtwd_svg_512.svg",
-            "sizes": "512x512"
-        },
-        {
             "src": "assets/mtwd_32.png",
             "sizes": "32x32"
         },
@@ -41,6 +25,22 @@
         },
         {
             "src": "assets/mtwd_512.png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "assets/mtwd_svg_32.svg",
+            "sizes": "32x32"
+        },
+        {
+            "src": "assets/mtwd_svg_144.svg",
+            "sizes": "144x144"
+        },
+        {
+            "src": "assets/mtwd_svg_256.svg",
+            "sizes": "256x256"
+        },
+        {
+            "src": "assets/mtwd_svg_512.svg",
             "sizes": "512x512"
         }
     ]
