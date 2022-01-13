@@ -6,4 +6,4 @@ Currently I am not realy active "online" but you could find me here:
 
 - [Twitter](https://twitter.com/MarcoTraspel) 🦜 
 - [CodePen](https://codepen.io/MT-WebDev) ✏
-- [Website (outdated)](https://mt-web.dev)
+- [Website (outdated)](https://mt-web.dev) 📃
