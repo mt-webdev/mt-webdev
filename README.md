@@ -1,6 +1,6 @@
-# HI! 👋
+# HI! I'm Marco👋
 
-My name is Marco and I simply love everything about web development! 🌍💻
+...and I simply love everything about web development! 🌍💻
 
 Currently I am not realy active "online" but you could find me here:
 
