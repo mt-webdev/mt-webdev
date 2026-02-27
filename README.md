@@ -4,5 +4,4 @@
 
 Currently I am not realy active "online" but you could find me here:
 
-- [CodePen](https://codepen.io/MT-WebDev) ✏
-- [Website (WIP)](https://mt-web.dev) 📃
+- [Resume Website](https://mt-web.dev) 📃
